@@ -1,0 +1,162 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kategori 1",
+      "image": "https://c4.wallpaperflare.com/wallpaper/297/22/531/lake-blue-moonlight-moon-wallpaper-thumb.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Kategori 2",
+      "image": "https://c4.wallpaperflare.com/wallpaper/297/22/531/lake-blue-moonlight-moon-wallpaper-thumb.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 1",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 2",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":3,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 3",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 4",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":5,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 5",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 6",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 7",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 8",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 9",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 10",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 11",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 12",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 13",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 14",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 15",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 16",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":17,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 17",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 18",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+	{
+      "id":19,
+      "name_category": "Kategori 1",
+      "title":"Kategori 1 Wallpaper 19",
+      "image":"https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Kategori 2",
+      "title": "Kategori 1 Wallpaper 20",
+      "image": "https://i.pinimg.com/originals/19/65/7b/19657b45064d4ba728ab62f14d491ea5.jpg"
+    }
+  ]
+}
